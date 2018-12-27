@@ -50,12 +50,9 @@ social:
     target: true
   weibo:
     title: Weibo
-    url: //weibo.com/WongMinHo
+    url: //weibo.com/ly532
     target: true
-  twitter:
-    title: Twitter
-    url: //twitter.com/huangminhow
-    target: true
+
   #qq:
   #weixin:
   #snapchat:
